@@ -1,0 +1,6 @@
+{
+  "repo": "cognosos/claude-code-session-tracker",
+  "assemblies": {
+    "base": "any"
+  }
+}
